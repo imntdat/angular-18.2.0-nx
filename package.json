@@ -28,6 +28,7 @@
     "@nx/eslint": "20.2.2",
     "@nx/eslint-plugin": "20.2.2",
     "@nx/js": "20.2.2",
+    "@nx/vite": "20.2.2",
     "@nx/web": "20.2.2",
     "@nx/workspace": "20.2.2",
     "@schematics/angular": "18.2.0",
@@ -44,6 +45,8 @@
     "ts-node": "10.9.1",
     "tslib": "^2.3.0",
     "typescript": "~5.5.2",
-    "typescript-eslint": "^8.13.0"
+    "typescript-eslint": "^8.13.0",
+    "vite": "^5.0.0",
+    "vite-plugin-dts": "~3.8.1"
   }
 }
