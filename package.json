@@ -2,7 +2,9 @@
   "name": "@angular-18.2.0-nx/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "serve": "nx serve core"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "18.2.0",
