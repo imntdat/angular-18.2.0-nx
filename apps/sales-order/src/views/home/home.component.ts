@@ -1,7 +1,10 @@
 import { Component } from '@angular/core';
 
-import { CounterComponent, HelloWorldComponent } from '@libs/shared';
-import { toLowerCase } from '@libs/utils';
+import {
+  CounterComponent,
+  HelloWorldComponent,
+  toLowerCase,
+} from '@libs/shared';
 
 @Component({
   standalone: true,
