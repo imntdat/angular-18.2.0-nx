@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@libs/shared": ["libs/shared/src/index.ts"]
+      "@so/invoices": ["libs/invoices/src/index.ts"],
+      "@so/shared": ["libs/shared/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

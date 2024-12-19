@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'lib-hello-world',
+  selector: 'shared-hello-world',
   standalone: true,
   templateUrl: './hello-world.component.html',
 })
